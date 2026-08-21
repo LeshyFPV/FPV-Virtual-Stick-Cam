@@ -10,8 +10,8 @@ Everything runs locally in your browser. Your logs never leave your machine.
 ## How to Use:
 **[---Watch the instructional video here---](https://www.youtube.com/watch?v=21rkLVZBiMU)**
 
-1. Download and open 'FPV-Virtual-Stick-Cam.html' in the internet browser of your choice.
-2. Open your EdgeTX telemetry file in the app. Or download the 'sample telemetry.csv' to try it out.
+1. Download and open '*FPV-Virtual-Stick-Cam.html*' in the internet browser of your choice.
+2. Open your EdgeTX telemetry file in the app. Or download the '*sample telemetry.csv*' to try it out.
 3. Tweak the colors and settings if you want, then hit Play to preview.
 4. Pick a framerate and format, then click Export. Let the flight play all the way through. Then download the file.
 5. Drag and drop the folder of frames (or WebM file) onto your timeline in your video editor. It will recognize it as a video clip.
