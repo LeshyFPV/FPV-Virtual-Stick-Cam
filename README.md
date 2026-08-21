@@ -2,7 +2,7 @@
 
 ![Virtual Stick Cam](docs/vscdemo.png)
 
-A browser tool that turns an EdgeTX flight log into an animated stick overlay for your FPV videos.
+A single file browser based app that turns an EdgeTX flight log into an animated stick overlay for your FPV videos.
 Everything runs locally in your browser. Your logs never leave your machine.
 
 ![Virtual Stick Cam interface](docs/VSCscreen1.jpg)
